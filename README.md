@@ -1,4 +1,6 @@
 # AI Podcast Generator
+**** Note - this project was mostly about testing the cursor.ai programming tool to see what it is capable of doing for me. Currently the real news feeds are not working so it is all 'example' (ie fake) news summaries.
+*****
 
 An AI-powered podcast generator that creates engaging political discussions between two hosts with different perspectives. The system uses Google's Gemini AI model to generate natural-sounding conversations about current events and political topics.
 
